@@ -3,14 +3,9 @@ title: Evolutionary Psychology
 subtitle: 진화심리학
 layout: default
 modal-id: 5
-# date: 2014-07-18
 img: evolutionary-psychology.jpg
-thumbnail: evolutionary-psychology.jpg
 alt: Evolutionary Psychology
-# project-date: April 2014
-# client: Start Bootstrap
-# category: Web Development
-# description: 
+type: research
 ---
 
 다섯째, 마음의 구조(architecture of mind), 인간의 짝짓기 행동, 생애사 이론(life history theory)과 같은 진화심리학의 주요 주제들에 대해서도 연구를 진행해왔다. 조금 더 구체적으로는 그동안 주로 마음의 대량 모듈성(massive modularity of mind), 성적 질투, 포르노의 자연사 등을 연구했다. 최근에는 자연사(life history) 이론의 관점에서 양육, 피해자 비난, 초저출산 현상 등을 설명하려는 시도를 하고 있으며, 여성의 배란 주기에 따른 공감행동의 변화에 대해서도 연구 중이다. 더 최근에는 남북정상 회담을 통해 북한(또는 북한지도자 김정은)에 대한 태도가 실제로 어떻게 변했는지, 왜 변했는지, 그리고 궁극적으로는 인간의 마음에 종전을 위한 심리 메커니즘이 어떻게 작동하는지를 탐구하기 시작했다.

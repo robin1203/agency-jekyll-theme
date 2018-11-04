@@ -3,14 +3,9 @@ title: Science & Religion
 subtitle: 과학과 종교
 layout: default
 modal-id: 6
-# date: 2014-07-18
 img: science-and-religion.jpg
-thumbnail: science-and-religion.jpg
 alt: Science & Religion
-# project-date: April 2014
-# client: Start Bootstrap
-# category: Web Development
-# description: 
+type: research
 ---
 
 여섯째, **과학과 종교**의 관계에 대해 연구해왔다. 특히 진화학자 및 과학철학자로서 한국적 맥락의 진화-창조 논쟁에 깊숙이 관여해왔고, 그 결과 이른바 ‘교진추 사건’(한국 창조과학회 산하의 ‘교과서개정추진위원회’가 고등학교 과학교과서에서 진화론 부분을 삭제하려고 했던 시도)으로부터 생물교육을 방어하고 진화론 교육을 제고하는 일에 적극 개입하기도 했다. 이 과정에서 관련 학계를 설득하여 교진추 청원을 반박하는 청원서를 주도적으로 작성했고 Nature와 Science와 같은 해외 저널에 한국 진화학계를 대표하여 인터뷰를 했다.

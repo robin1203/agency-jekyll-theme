@@ -3,14 +3,9 @@ title: Conceptual issues of biology
 subtitle: 생물학의 개념적 쟁점들
 layout: default
 modal-id: 1
-# date: 2014-07-18
 img: biology-concepts.jpg
-# thumbnail: biology-concepts.jpg
 alt: Conceptual issues of biology
-# project-date: April 2014
-# client: Start Bootstrap
-# category: Web Development
-# description: 
+type: research
 ---
 
 첫째, **현대 진화론의 개념적 쟁점**들을 이론적으로 다뤄왔다. 그 중에서도 가장 오랫동안 집중해온 세부 주제는 이른바 ‘선택의 단위(unit of selection) 문제인데, 다수준 선택(multi-level selection) 이론을 비판적으로 검토하는 작업이 주로 진행되었다. 이런 전문적 연구는 다윈 시리즈 3부작(<다윈의 식탁>, <다윈의 서재>, <다윈의 정원>) 중에서 <다윈의 식탁>과 <다윈의 정원> 형태로 출간되기도 했다. 최근에는 복제자(replicator) 이론과 발생계(developmental systems) 이론이 각각 지지하는 형이상학을 비교하는 작업도 진행중이다. 관련 성과들은 다음과 같다.

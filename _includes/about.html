@@ -10,7 +10,7 @@
         <div class="row">
             <div class="col-lg-12">
                 {% for post in site.posts %}
-                {% if post.title == 'about' %}
+                {% if post.type == 'about' %}
                 {{ post.content }}
                 {% endif %}
                 {% endfor %}

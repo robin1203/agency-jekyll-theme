@@ -3,14 +3,9 @@ title: Science and Technology Studies
 subtitle: 과학기술학
 layout: default
 modal-id: 7
-# date: 2014-07-18
 img: technology.jpg
-thumbnail: technology.jpg
 alt: Science and Technology Studies
-# project-date: April 2014
-# client: Start Bootstrap
-# category: Web Development
-# description: 
+type: research
 ---
 
 마지막으로, 생명윤리학, 신경윤리학, 연구윤리 등과 같은 (넓은 의미의) 과학기술학(science technology studies)적 주제들도 연구대상이다. 그동안 뇌를 다루는 과학기술이 어떠한 사회적·윤리적·법적 문제들을 만들어낼 수 있는지를 주로 탐구해왔는데, 최근에는 유전자 편집(genome editing)에 대한 인문사회학적 쟁점과 함의에 대해 공동 연구를 수행하고 있다.

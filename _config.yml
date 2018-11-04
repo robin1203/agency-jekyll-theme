@@ -7,7 +7,6 @@ email: djang@snu.ac.kr
 description-en: Human Nature Studies and Philosophy of Biology
 description-kr: 서울대학교 인간본성 및 생물철학 연구실
 
-
 # Team names, titles and social links
 people:
 - name: 장대익
@@ -17,6 +16,22 @@ people:
   social:
     - title: envelope
       url: mailto:djang@snu.ac.kr
+
+- name: 신지은
+  pic: no_profile.png
+  position: post-doc
+  major:
+  social:
+    - title: envelope
+      url: mailto:jieunshin00@gmail.com
+
+- name: 구형찬
+  pic: no_profile.png
+  position: 객원 연구원
+  major:
+  social:
+    - title: envelope
+      url: mailto:koohc1@gmail.com
 
 - name: 김진영
   pic: no_profile.png
@@ -42,22 +57,6 @@ people:
     - title: envelope
       url: mailto:youngjae.cha@snu.ac.kr
 
-- name: 김창윤
-  pic: no_profile.png
-  position: 석사 과정
-  major:
-  social:
-    - title: envelope
-      url: mailto:cythuskim@gmail.com
-
-- name: 정유희
-  pic: no_profile.png
-  position: 석사 과정
-  major:
-  social:
-    - title: envelope
-      url: mailto:sacrevo@gmail.com
-
 - name: 정지수
   pic: no_profile.png
   position: 석사 과정
@@ -65,38 +64,6 @@ people:
   social:
     - title: envelope
       url: mailto:wltn1126@gmail.com
-
-- name: 김수
-  pic: no_profile.png
-  position: 학부생
-  major:
-  social:
-    - title: envelope
-      url: mailto:carlsagan21@snu.ac.kr
-
-- name: 안민경
-  pic: no_profile.png
-  position: 학부생
-  major:
-  social:
-    - title: envelope
-      url: mailto:grace9071@snu.ac.kr
-
-- name: 신지은
-  pic: no_profile.png
-  position: 연구원
-  major:
-  social:
-    - title: envelope
-      url: mailto:jieunshin00@gmail.com
-
-- name: 구형찬
-  pic: no_profile.png
-  position: 연구원
-  major:
-  social:
-    - title: envelope
-      url: mailto:koohc1@gmail.com
 
 - name: 전진권
   pic: no_profile.png
@@ -138,6 +105,14 @@ people:
     - title: envelope
       url: mailto:inermis89@gmail.com
 
+- name: 정유희
+  pic: no_profile.png
+  position: 석사 졸업생
+  major:
+  social:
+    - title: envelope
+      url: mailto:sacrevo@gmail.com
+
 - name: 이보윤
   pic: no_profile.png
   position: 석사 졸업생
@@ -146,6 +121,49 @@ people:
     - title: envelope
       url: mailto:boyun868@gmail.com
 
+- name: 김은수
+  pic: no_profile.png
+  position: 석사 수료생
+  major:
+  # social:
+  #   - title: envelope
+  #     url:
+
+- name: 안민경
+  pic: no_profile.png
+  position: 학부생
+  major:
+  social:
+    - title: envelope
+      url: mailto:grace9071@snu.ac.kr
+
+- name: 신희영
+  pic: no_profile.png
+  position: 학부 졸업생
+  major:
+  # social:
+  #   - title: envelope
+  #     url: mailto:carlsagan21@snu.ac.kr
+
+- name: 임현수
+  pic: no_profile.png
+  position: 학부 졸업생
+
+- name: 이향정
+  pic: no_profile.png
+  position: 학부 졸업생
+
+- name: 이경연
+  pic: no_profile.png
+  position: 학부 졸업생
+
+- name: 김수
+  pic: no_profile.png
+  position: 학부 졸업생
+  major:
+  social:
+    - title: envelope
+      url: mailto:carlsagan21@snu.ac.kr
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # social:

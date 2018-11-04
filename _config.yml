@@ -4,7 +4,7 @@ url: http://evo.snu.ac.kr
 # Site settings
 title: HNSPB
 email: djang@snu.ac.kr
-description-en: Human Nature Studies and Philosophy of Biology
+description-en: Jang's lab for human nature studies & philosophy of biology
 description-kr: 서울대학교 인간본성 및 생물철학 연구실
 
 # Team names, titles and social links
@@ -136,6 +136,10 @@ people:
   social:
     - title: envelope
       url: mailto:grace9071@snu.ac.kr
+
+- name: 남형욱
+  pic: no_profile.png
+  position: 학부생
 
 - name: 신희영
   pic: no_profile.png

@@ -1,10 +1,11 @@
-url: https://evo.snu.ac.kr
+url: http://evo.snu.ac.kr
 # baseurl: /home/
 
 # Site settings
-title: HNPB
+title: HNSPB
 email: djang@snu.ac.kr
-description: "서울대학교 인간본성 및 생물철학 연구실"
+description-en: Human Nature Studies and Philosophy of Biology
+description-kr: 서울대학교 인간본성 및 생물철학 연구실
 
 
 # Team names, titles and social links
@@ -15,7 +16,7 @@ people:
   major: 진화학 및 과학철학
   social:
     - title: envelope
-      url: djang@snu.ac.kr
+      url: mailto:djang@snu.ac.kr
 
 - name: 김진영
   pic: no_profile.png
@@ -23,7 +24,7 @@ people:
   major:
   social:
     - title: envelope
-      url: mappaq@hanmail.net
+      url: mailto:mappaq@hanmail.net
 
 - name: 이형석
   pic: no_profile.png
@@ -31,7 +32,7 @@ people:
   major:
   social:
     - title: envelope
-      url: hyungdralisk@snu.ac.kr
+      url: mailto:hyungdralisk@snu.ac.kr
 
 - name: 차영재
   pic: no_profile.png
@@ -39,7 +40,7 @@ people:
   major:
   social:
     - title: envelope
-      url: youngjae.cha@snu.ac.kr
+      url: mailto:youngjae.cha@snu.ac.kr
 
 - name: 김창윤
   pic: no_profile.png
@@ -47,7 +48,7 @@ people:
   major:
   social:
     - title: envelope
-      url: cythuskim@gmail.com
+      url: mailto:cythuskim@gmail.com
 
 - name: 정유희
   pic: no_profile.png
@@ -55,7 +56,7 @@ people:
   major:
   social:
     - title: envelope
-      url: sacrevo@gmail.com
+      url: mailto:sacrevo@gmail.com
 
 - name: 정지수
   pic: no_profile.png
@@ -63,7 +64,7 @@ people:
   major:
   social:
     - title: envelope
-      url: wltn1126@gmail.com
+      url: mailto:wltn1126@gmail.com
 
 - name: 김수
   pic: no_profile.png
@@ -71,7 +72,7 @@ people:
   major:
   social:
     - title: envelope
-      url: carlsagan21@snu.ac.kr
+      url: mailto:carlsagan21@snu.ac.kr
 
 - name: 안민경
   pic: no_profile.png
@@ -79,7 +80,7 @@ people:
   major:
   social:
     - title: envelope
-      url: grace9071@snu.ac.kr
+      url: mailto:grace9071@snu.ac.kr
 
 - name: 신지은
   pic: no_profile.png
@@ -87,7 +88,7 @@ people:
   major:
   social:
     - title: envelope
-      url: jieunshin00@gmail.com
+      url: mailto:jieunshin00@gmail.com
 
 - name: 구형찬
   pic: no_profile.png
@@ -95,7 +96,7 @@ people:
   major:
   social:
     - title: envelope
-      url: koohc1@gmail.com
+      url: mailto:koohc1@gmail.com
 
 - name: 전진권
   pic: no_profile.png
@@ -103,7 +104,7 @@ people:
   major:
   social:
     - title: envelope
-      url: b613jk@hotmail.com
+      url: mailto:b613jk@hotmail.com
 
 - name: 권오현
   pic: no_profile.png
@@ -111,7 +112,7 @@ people:
   major:
   social:
     - title: envelope
-      url: myleetzshe@hanmail.net
+      url: mailto:myleetzshe@hanmail.net
 
 - name: 박선진
   pic: no_profile.png
@@ -119,7 +120,7 @@ people:
   major:
   social:
     - title: envelope
-      url: maybrian7@gmail.com
+      url: mailto:maybrian7@gmail.com
 
 - name: 백소정
   pic: no_profile.png
@@ -127,7 +128,7 @@ people:
   major:
   social:
     - title: envelope
-      url: sjbaek08@gmail.com
+      url: mailto:sjbaek08@gmail.com
 
 - name: 이민섭
   pic: no_profile.png
@@ -135,7 +136,7 @@ people:
   major:
   social:
     - title: envelope
-      url: inermis89@gmail.com
+      url: mailto:inermis89@gmail.com
 
 - name: 이보윤
   pic: no_profile.png
@@ -143,7 +144,7 @@ people:
   major:
   social:
     - title: envelope
-      url: boyun868@gmail.com
+      url: mailto:boyun868@gmail.com
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)

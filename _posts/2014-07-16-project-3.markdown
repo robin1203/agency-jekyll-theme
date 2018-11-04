@@ -4,8 +4,7 @@ subtitle: 문화 진화
 layout: default
 modal-id: 3
 # date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: cultural-evolution.jpg
 alt: Cultural Evolution
 # project-date: April 2014
 # client: Start Bootstrap

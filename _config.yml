@@ -9,9 +9,9 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: 장대익
   pic: 1
-  position: Lead Designer
+  position: 교수
   social:
     - title: twitter
       url: #

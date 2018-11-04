@@ -13,12 +13,16 @@ alt: Evolutionary Psychology
 # description: 
 ---
 
-다섯째, 마음의 구조(architecture of mind), 인간의 짝짓기 행동, 생애사 이론(life history theory)과 같은 진화심리학의 주요 주제들에 대해서도 연구를 진행해왔다. 조금 더 구체적으로는 그동안 주로 마음의 대량 모듈성(massive modularity of mind), 성적 질투, 포르노의 자연사 등을 연구했는데, 최근에는 여성의 배란 주기에 따른 공감행동의 변화, 생애사 전략의 세대 간 전달 등에 관한 진화심리학적 연구를 수행하고 있다. 그리고 현재는 자유의지에 대한 믿음과 느낌의 차이에 주목한 후 후자에 대한 진화심리학적 가설들을 제시하는 작업을 수행중이다. 한편, 행복심리학을 전공한 박사후연구원과 함께 사회성과 행복에 관한 진화심리학적 연구도 막 시작했다.
+다섯째, 마음의 구조(architecture of mind), 인간의 짝짓기 행동, 생애사 이론(life history theory)과 같은 진화심리학의 주요 주제들에 대해서도 연구를 진행해왔다. 조금 더 구체적으로는 그동안 주로 마음의 대량 모듈성(massive modularity of mind), 성적 질투, 포르노의 자연사 등을 연구했다. 최근에는 자연사(life history) 이론의 관점에서 양육, 피해자 비난, 초저출산 현상 등을 설명하려는 시도를 하고 있으며, 여성의 배란 주기에 따른 공감행동의 변화에 대해서도 연구 중이다. 더 최근에는 남북정상 회담을 통해 북한(또는 북한지도자 김정은)에 대한 태도가 실제로 어떻게 변했는지, 왜 변했는지, 그리고 궁극적으로는 인간의 마음에 종전을 위한 심리 메커니즘이 어떻게 작동하는지를 탐구하기 시작했다.
 
 #### 연구 논문
+Shin, J.*, Suh, E. M., and **Jang, D.**(2018), Mate value at a glance: Facial attractiveness reveals women’s waist-to-hip ratio and men’s household income, Personality and Individual Differences, 135:128-130. 
+
 장대익(2012),「포르노그래피의 자연사: 진화·신경학적 접근」,『비평과 이론』17권 1호, 261-284.
 
 #### 학술 발표(일부)
+Baek, S., and **Jang, D***(2018). “Women with a competitive partner are cooperative with other fertile woman under male-threat context”, Human Behavior and Evolution Society 30th Annual meeting, Amsterdam, Netherlands, 2018.7.5.
+
 차영재, 김지원, **장대익***(2017), “부모의 아동기 경제적 역경이 자녀의 학업 성취도에 미치는 영향 - 자녀가 지각한 양육 긍정성의 매개 효과를 중심으로”, 제10회 한국복지패널 학술대회, 서울대학교, 2017.9.15.
 
 Jang, D.(2008), "Modular Stance: Bridging Evo-Devo and Evolutionary Psychology," International symposium for Philosophy of biology and philosophy of economics, National Chungching University, Taiwan
@@ -29,8 +33,15 @@ Jang, D.(2008), "Modular Stance: Bridging Evo-Devo and Evolutionary Psychology,"
 최재천, 한영우, 김호, 황희선, 홍승효, 장대익(2003), 『살인의 진화심리학: 조선 후기의 가족 살해와 배우자 살해』, 서울대학교 출판부
 
 #### 미발표원고(manuscripts)
-Cha, Y.J., J.Kim., and **Jang, D***, “The Effect of Harsh Early Childhood Environments of Parents on Academic Achievement of Children: The Mediating Role of Perceived Positive Parenting”
+Cha, Y.J. Jung, J., & **Jang, D.***, “Who and why blame victims: life history strategies and belief in a just world”
 
-Hwang, H-K., and **Jang, D***, “On the Evolution of Feeling of Free Will”
+Cha, Y.J., J. Kim., and **Jang, D***, “The Effect of Harsh Early Childhood Environments of Parents on Academic Achievement of Children: The Mediating Role of Perceived Positive Parenting”
 
 Baek, S. J., and **Jang, D***, “The Effect of Women Competition Motivation on Empathy across the Ovulation Cycle”
+
+Cha, Y.J., Ko, W., Lim, Y., Jang, J., Cho, Y.*, & **Jang, D.***, “Competition Tightness Underlies the Effect of Population Density on Fertility: A Life History Theory Approach”
+
+Yoon, J., Cha, Y. J., and **Jang, D.***, “Change in Acceptance Attitude towards Kim Jong-un after the inter-Korean Summit: Analysis through Stereotype Content Model”
+
+Cha, Y.J., Hwang, J., and **Jang, D.***, “Evolutionary Psychology for End of War: Inter-Korean case”
+Hwang, H-K., and Jang, D*, “On the Evolution of Feeling of Free Will”

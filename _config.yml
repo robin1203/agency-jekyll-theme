@@ -13,6 +13,11 @@ people:
   pic: no_profile.png
   position: 교수
   major: 진화학 및 과학철학
+  cv:
+    - title: EN
+      url: 20180923_CV_Dayk JANG.pdf
+    - title: KO
+      url: 20181104_홈피용 한글CV.pdf
   social:
     - title: envelope
       url: mailto:djang@snu.ac.kr

@@ -16,6 +16,14 @@
                     <p class="text-muted">{{ member.position }}</p>
                     <!-- <p class="text-muted">{{ member.major }}</p> -->
                     <ul class="list-inline social-buttons">
+                        <!-- CV: -->
+                        {% for cv in member.cv %}
+                        <li>
+                            <a href="docs/{{ cv.url }}">{{ cv.title }}</a>
+                        </li>
+                        {% endfor %}
+                        <!-- </ul>
+                    <ul> -->
                         {% for network in member.social %}
                         <li>
                             <a href="{{ network.url }}">
@@ -23,7 +31,6 @@
                             </a>
                         </li>
                         {% endfor %}
-
                     </ul>
                 </div>
             </div>

@@ -666,9 +666,16 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/img/map-image.png');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('{{ site.baseurl }}/img/20170710_185931.jpg');
     background-position: center;
     background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@media(min-width:768px) {
+    section#contact {
+        padding: 200px 0;
+    }
 }
 
 section#contact .section-heading {

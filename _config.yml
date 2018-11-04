@@ -180,8 +180,8 @@ people:
 
 # Postal address (add as many lines as necessary)
 address:
-  - 상세주소, 서울대학교, 00동
-  - 원생 연구실 주소, 교수님 연구실 주소
+  - 08826, 서울특별시 관악구 관악로 1 서울대학교 자유전공학부
+  - 220동 322호, 220동 325호
 
 # Build settings
 markdown: kramdown

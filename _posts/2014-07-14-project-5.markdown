@@ -1,15 +1,36 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: Evolutionary Psychology
+subtitle: 진화심리학
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+# date: 2014-07-18
+img: evolutionary-psychology.jpg
+thumbnail: evolutionary-psychology.jpg
+alt: Evolutionary Psychology
+# project-date: April 2014
+# client: Start Bootstrap
+# category: Web Development
+# description: 
 ---
+
+다섯째, 마음의 구조(architecture of mind), 인간의 짝짓기 행동, 생애사 이론(life history theory)과 같은 진화심리학의 주요 주제들에 대해서도 연구를 진행해왔다. 조금 더 구체적으로는 그동안 주로 마음의 대량 모듈성(massive modularity of mind), 성적 질투, 포르노의 자연사 등을 연구했는데, 최근에는 여성의 배란 주기에 따른 공감행동의 변화, 생애사 전략의 세대 간 전달 등에 관한 진화심리학적 연구를 수행하고 있다. 그리고 현재는 자유의지에 대한 믿음과 느낌의 차이에 주목한 후 후자에 대한 진화심리학적 가설들을 제시하는 작업을 수행중이다. 한편, 행복심리학을 전공한 박사후연구원과 함께 사회성과 행복에 관한 진화심리학적 연구도 막 시작했다.
+
+#### 연구 논문
+장대익(2012),「포르노그래피의 자연사: 진화·신경학적 접근」,『비평과 이론』17권 1호, 261-284.
+
+#### 학술 발표(일부)
+차영재, 김지원, **장대익***(2017), “부모의 아동기 경제적 역경이 자녀의 학업 성취도에 미치는 영향 - 자녀가 지각한 양육 긍정성의 매개 효과를 중심으로”, 제10회 한국복지패널 학술대회, 서울대학교, 2017.9.15.
+
+Jang, D.(2008), "Modular Stance: Bridging Evo-Devo and Evolutionary Psychology," International symposium for Philosophy of biology and philosophy of economics, National Chungching University, Taiwan
+
+#### 연구서
+장대익(2012), 「사회생물학과 진화론적 환원주의」, 김동광·김세균·최재천 엮음(2012), 『사회생물학 대논쟁』, 이음, 65-106.
+
+최재천, 한영우, 김호, 황희선, 홍승효, 장대익(2003), 『살인의 진화심리학: 조선 후기의 가족 살해와 배우자 살해』, 서울대학교 출판부
+
+#### 미발표원고(manuscripts)
+Cha, Y.J., J.Kim., and **Jang, D***, “The Effect of Harsh Early Childhood Environments of Parents on Academic Achievement of Children: The Mediating Role of Perceived Positive Parenting”
+
+Hwang, H-K., and **Jang, D***, “On the Evolution of Feeling of Free Will”
+
+Baek, S. J., and **Jang, D***, “The Effect of Women Competition Motivation on Empathy across the Ovulation Cycle”

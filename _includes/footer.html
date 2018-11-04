@@ -1,6 +1,17 @@
 <footer>
     <div class="container">
         <div class="row">
+            <div class="col-md-4 text-left">
+                <h4>Address</h4>
+                {% for line in site.address %}
+                <address>{{ line }}</address>
+                {% endfor %}
+
+                <p>연구실 전화번호, 기타 필요한 정보</p>
+            </div>
+
+
+
             <div class="col-md-4">
                 <span class="copyright">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span>
             </div>

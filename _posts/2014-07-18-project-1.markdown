@@ -1,35 +1,46 @@
 ---
-title: 생물학의 개념적 쟁점들
-# subtitle: Website Design
+title: Conceptual issues of biology
+subtitle: 생물학의 개념적 쟁점들
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: 
+# date: 2014-07-18
+img: biology-concepts.jpg
+# thumbnail: biology-concepts.jpg
+alt: Conceptual issues of biology
+# project-date: April 2014
+# client: Start Bootstrap
+# category: Web Development
+# description: 
 ---
 
 첫째, **현대 진화론의 개념적 쟁점**들을 이론적으로 다뤄왔다. 그 중에서도 가장 오랫동안 집중해온 세부 주제는 이른바 ‘선택의 단위(unit of selection) 문제인데, 다수준 선택(multi-level selection) 이론을 비판적으로 검토하는 작업이 주로 진행되었다. 이런 전문적 연구는 다윈 시리즈 3부작(<다윈의 식탁>, <다윈의 서재>, <다윈의 정원>) 중에서 <다윈의 식탁>과 <다윈의 정원> 형태로 출간되기도 했다. 최근에는 복제자(replicator) 이론과 발생계(developmental systems) 이론이 각각 지지하는 형이상학을 비교하는 작업도 진행중이다. 관련 성과들은 다음과 같다.
 
-연구 논문
-Jang, D.(2017), What Can Cultural Psychology Give to Twenty-First-Century Biology, East Asian Science, Technology and Society: An International Journal, 11:405-409
-전진권, 장대익*(2017), 「형질집단 선택론의 관점 다원주의에 대한 비판」, 『과학철학』 20권 1호, 1-33.
-전진권, 장대익*(2015), 「포괄적합도 이론 논쟁과 의미론적 문제」, 『과학철학』 18권 1호, 103-128.
-Chun, J. N., Lim J. M., Kang, Y., Kim, E. H., Shin, Y.-C., Kim, H.-G., Jang, D., Kwon, D., Shin, S.-Y., So, I., and Jeon, J.-H.(2014), A network perspective on unraveling the role of TRP channels in biology and disease, Pflügers Archiv - European Journal of Physiology, 466:173-182.
+#### 연구 논문
+**Jang, D.(2017)**, What Can Cultural Psychology Give to Twenty-First-Century Biology, East Asian Science, Technology and Society: An International Journal, 11:405-409
+
+전진권, **장대익*(2017)**, 「형질집단 선택론의 관점 다원주의에 대한 비판」, 『과학철학』 20권 1호, 1-33.
+
+전진권, **장대익*(2015)**, 「포괄적합도 이론 논쟁과 의미론적 문제」, 『과학철학』 18권 1호, 103-128.
+
+Chun, J. N., Lim J. M., Kang, Y., Kim, E. H., Shin, Y.-C., Kim, H.-G., **Jang, D.**, Kwon, D., Shin, S.-Y., So, I., and Jeon, J.-H.(2014), A network perspective on unraveling the role of TRP channels in biology and disease, Pflügers Archiv - European Journal of Physiology, 466:173-182.
+
 장대익(2008), 「일반 복제자 이론: 유전자, 밈, 그리고 지향계」, 『과학철학』 11권 1호, 1-33.
+
 장대익(2007), 「도킨스 다시 읽기: 복제자, 행위자, 그리고 수혜자」, 『철학사상』 25권, 195-225.
-장대익*, 최재천(2004), 「생물계의 변혁은 어떻게 일어나는가?」, 『철학과 현실』 60권 1호, 75-98.
+
+**장대익***, 최재천(2004), 「생물계의 변혁은 어떻게 일어나는가?」, 『철학과 현실』 60권 1호, 75-98.
+
 장대익(2003), 「선택 이론의 개념적 쟁점: 선택의 수준과 단위, 그리고 힘에 관하여」, 『철학연구』 59권(부록), 221-277.
+
 장대익(2003), 「유전자에 관한 진실을 찾아서: 이기적 유전자 이론에서 발생계 이론까지」, 『ELSI연구』 1권 1호, 61-83.
 
-학술 발표(일부)
+#### 학술 발표(일부)
 Jang, D.(2008), “Modularism from an Evo-Devo Perspective,” International Society for the History, Philosophy, and Social Studies of Biology workshop, Kobe University, Japan, Nov. 5. 2008
-연구서
+
+#### 연구서
 장대익(2017), 『다윈의 정원』, 바다출판사 → 세종도서 선정(2017년)
+
 장대익(2014), 『다윈의 식탁』(개정증보판), 바다출판사[1판, 2008년, 김영사] → 제27회 한국과학기술도서상 저술상(2009년, 교과부)
-미발표원고(manuscripts)
+
+#### 미발표원고(manuscripts)
 장대익, “진화론적 형이상학 논쟁: 복제자 vs. 발생계”

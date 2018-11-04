@@ -1,64 +1,168 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://evo.snu.ac.kr
+# baseurl: /home/
 
 # Site settings
 title: HNPB
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+email: djang@snu.ac.kr
+description: "서울대학교 인간본성 및 생물철학 연구실"
 
 
 # Team names, titles and social links
 people:
 - name: 장대익
-  pic: 1
+  pic: no_profile.png
   position: 교수
+  major: 진화학 및 과학철학
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: envelope
+      url: djang@snu.ac.kr
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
+- name: 김진영
+  pic: no_profile.png
+  position: 박사 과정
+  major:
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+    - title: envelope
+      url: mappaq@hanmail.net
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: 이형석
+  pic: no_profile.png
+  position: 박사 과정
+  major:
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: envelope
+      url: hyungdralisk@snu.ac.kr
+
+- name: 차영재
+  pic: no_profile.png
+  position: 박사 과정
+  major:
+  social:
+    - title: envelope
+      url: youngjae.cha@snu.ac.kr
+
+- name: 김창윤
+  pic: no_profile.png
+  position: 석사 과정
+  major:
+  social:
+    - title: envelope
+      url: cythuskim@gmail.com
+
+- name: 정유희
+  pic: no_profile.png
+  position: 석사 과정
+  major:
+  social:
+    - title: envelope
+      url: sacrevo@gmail.com
+
+- name: 정지수
+  pic: no_profile.png
+  position: 석사 과정
+  major:
+  social:
+    - title: envelope
+      url: wltn1126@gmail.com
+
+- name: 김수
+  pic: no_profile.png
+  position: 학부생
+  major:
+  social:
+    - title: envelope
+      url: carlsagan21@snu.ac.kr
+
+- name: 안민경
+  pic: no_profile.png
+  position: 학부생
+  major:
+  social:
+    - title: envelope
+      url: grace9071@snu.ac.kr
+
+- name: 신지은
+  pic: no_profile.png
+  position: 연구원
+  major:
+  social:
+    - title: envelope
+      url: jieunshin00@gmail.com
+
+- name: 구형찬
+  pic: no_profile.png
+  position: 연구원
+  major:
+  social:
+    - title: envelope
+      url: koohc1@gmail.com
+
+- name: 전진권
+  pic: no_profile.png
+  position: 박사 졸업생
+  major:
+  social:
+    - title: envelope
+      url: b613jk@hotmail.com
+
+- name: 권오현
+  pic: no_profile.png
+  position: 석사 졸업생
+  major:
+  social:
+    - title: envelope
+      url: myleetzshe@hanmail.net
+
+- name: 박선진
+  pic: no_profile.png
+  position: 석사 졸업생
+  major:
+  social:
+    - title: envelope
+      url: maybrian7@gmail.com
+
+- name: 백소정
+  pic: no_profile.png
+  position: 석사 졸업생
+  major:
+  social:
+    - title: envelope
+      url: sjbaek08@gmail.com
+
+- name: 이민섭
+  pic: no_profile.png
+  position: 석사 졸업생
+  major:
+  social:
+    - title: envelope
+      url: inermis89@gmail.com
+
+- name: 이보윤
+  pic: no_profile.png
+  position: 석사 졸업생
+  major:
+  social:
+    - title: envelope
+      url: boyun868@gmail.com
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+# social:
+#   - title: twitter
+#     url: http://twitter.com/jekyllrb
+#   - title: facebook
+#     url:
+#   - title: stack-overflow
+#     url: http://stackoverflow.com/questions/tagged/jekyll
+#   - title: bitbucket
+#     url: http://bitbucket.org/jekyll
+#   - title: github
+#     url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - 상세주소, 서울대학교, 00동
+  - 원생 연구실 주소, 교수님 연구실 주소
 
 # Build settings
 markdown: kramdown

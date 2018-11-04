@@ -1,15 +1,38 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Moral Mind
+subtitle: 도덕적 마음
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+# date: 2014-07-18
+img: moral-minds.jpg
+thumbnail: moral-minds.jpg
+alt: Moral Mind
+# project-date: April 2014
+# client: Start Bootstrap
+# category: Web Development
+# description: 
 ---
+
+둘째, 이타성의 진화론과 도덕 판단의 심리학을 통해 **인간 도덕성의 특성과 진화**를 이해하려고 노력해왔다. 연구재단의 지원(2014~2015)으로 수행된 도덕심리학의 철학적 함의에 관한 연구는 도덕성의 심리학적 자연화에 관한 국내 최초의 시도라 할만하다. 최근에는 강한 호혜성을 지지하는 것으로 알려진 경제학 실험들을 비판적으로 재검토하는 작업을 수행하고 있다. 또한 도덕적 혐오(moral disgust)의 진화에 관한 연구와 도덕 판단과 도덕 균형의 관계에 대한 연구도 수행중이다. 사회적 혐오의 확산에 대한 학제적 연구도 준비 중이다. 연구 성과는 다음과 같다.
+
+#### 연구 논문
+장대익(2013), 「착한 뇌를 찾아서: 내 탓인가, 뇌 탓인가」, 김성일·김채연· 성영신 엮음(2013),『뇌로 통하다』, 21세기 북스, 347-382.
+
+장대익(2009), 「다윈 인문학과 인문학의 진화」, 『인문논총』 61권, 3-47.
+
+장대익(2005), 「이타성의 진화와 선택의 수준 논쟁: 다수준 선택론이 더 나은가?」, 『과학철학』 8권 1호, 81-113.
+
+#### 학술 발표(일부)
+Jang, D.(2013), “The Self and the Neuroscience of Morality,” in 2013 Neuroethics International Conference (Neuroethics in Context: East Meets West), Neuro-Humanities Research Group, Seoul, 11 Jan. 2013.
+
+Jang, D.(2012), “Humanities of Mirror Neurons“, BRC Int’l conference 2012 @Jeju in conjunction with the 5th BRC-UK joint symposium on neuroscience, 27~29, June, 2012, Jeju, 21st Century Frontier R&D program in neuroscience, Brain Research Center.
+
+#### 연구서
+홍성욱, 장대익 엮음(2012), 『뇌과학, 경계를 넘다』, 바다출판사
+
+홍성욱, 장대익 엮음(2010), 『뇌 속의 인간, 인간 속의 뇌』, 바다출판사
+
+#### 미발표원고(manuscripts)
+Ahn, G., and **Jang, D.***, “Do economics experiments really support strong reciprocity?: A critical review of empirical evidence”
+
+Jang, D.*, and Lee, M.-S., “On the debate between Haidt vs. Gray in moral psychology”

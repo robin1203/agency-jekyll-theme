@@ -8,7 +8,7 @@
 
 body {
     overflow-x: hidden;
-    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Roboto Slab","Nanum Gothic","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
@@ -271,7 +271,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('{{ site.baseurl }}/img/header-bg.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -415,6 +415,7 @@ section h3.section-subheading {
 #portfolio .portfolio-item .portfolio-caption h4 {
     margin: 0;
     text-transform: none;
+    color: #333;
 }
 
 #portfolio .portfolio-item .portfolio-caption p {
@@ -780,7 +781,7 @@ ul.social-buttons li a:active {
     min-height: 100%;
     border: 0;
     border-radius: 0;
-    text-align: center;
+    /* text-align: center; */
     background-clip: border-box;
     -webkit-box-shadow: none;
     box-shadow: none;
@@ -791,8 +792,12 @@ ul.social-buttons li a:active {
     font-size: 3em;
 }
 
+.portfolio-modal .modal-content h4 {
+    margin-top: 30px;
+}
+
 .portfolio-modal .modal-content p {
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
 
 .portfolio-modal .modal-content p.item-intro {

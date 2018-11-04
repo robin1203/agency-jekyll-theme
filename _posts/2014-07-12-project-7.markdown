@@ -1,0 +1,29 @@
+---
+title: Science and Technology Studies
+subtitle: 과학기술학
+layout: default
+modal-id: 7
+# date: 2014-07-18
+img: technology.jpg
+thumbnail: technology.jpg
+alt: Science and Technology Studies
+# project-date: April 2014
+# client: Start Bootstrap
+# category: Web Development
+# description: 
+---
+
+마지막으로, 생명윤리학, 신경윤리학, 연구윤리 등과 같은 (넓은 의미의) 과학기술학(science technology studies)적 주제들도 연구대상이다. 그동안 뇌를 다루는 과학기술이 어떠한 사회적·윤리적·법적 문제들을 만들어낼 수 있는지를 주로 탐구해왔는데, 최근에는 유전자 편집(genome editing)에 대한 인문사회학적 쟁점과 함의에 대해 공동 연구를 수행하고 있다.
+
+#### 연구 논문
+Lee, K-Y., and Jang, D.*(2013), Ethical and Social Issues Behind Brain-Computer Interface, PROC. OF 2013 IEEE INTERNATIONAL WINTER WORKSHOP ON BRAIN-COMPUTER INTERFACE, 72 ~ 75.
+
+장대익(2011),「연구 윤리의 문화적, 적극적, 그리고 창의적 측면에 관하여」,『과학기술학연구』21호, 131-139
+
+장대익(2008), 「뇌 탓이오?: 신경윤리학의 쟁점들」, 『철학과 현실』 78권, 137-151.
+
+#### 학술 발표(일부)
+Jang, D.(2010), "Neuroethics Meets Culture," 2010 society for social studies of science symposium, University of Tokyo, Japan, 26 Aug 2010.
+
+#### 연구서
+장대익, “유전자 가위 기술 비판과 ‘최적성 직관’”

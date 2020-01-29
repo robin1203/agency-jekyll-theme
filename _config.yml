@@ -70,6 +70,14 @@ people:
     - title: envelope
       url: mailto:wltn1126@gmail.com
 
+- name: 최윤빈
+  pic: no_profile.png
+  position: 석사 과정
+  major:
+  social:
+    - title: envelope
+      url: yoonbin.choi@snu.ac.kr
+
 - name: 전진권
   pic: no_profile.png
   position: 박사 졸업생

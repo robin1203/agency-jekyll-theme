@@ -62,13 +62,29 @@ people:
     - title: envelope
       url: mailto:youngjae.cha@snu.ac.kr
 
-- name: 정지수
+- name: 이민섭
+  pic: no_profile.png
+  position: 박사 과정
+  major:
+  social:
+    - title: envelope
+      url: mailto:inermis89@gmail.com
+
+- name: 이은정
+  pic: no_profile.png
+  position: 박사 과정
+  major:
+  social:
+    - title: envelope
+      url: mailto:ej.claire.lee@gmail.com
+
+- name: 장재경
   pic: no_profile.png
   position: 석사 과정
   major:
   social:
     - title: envelope
-      url: mailto:wltn1126@gmail.com
+      url: jk.jang@snu.ac.kr
 
 - name: 최윤빈
   pic: no_profile.png
@@ -110,14 +126,6 @@ people:
     - title: envelope
       url: mailto:sjbaek08@gmail.com
 
-- name: 이민섭
-  pic: no_profile.png
-  position: 석사 졸업생
-  major:
-  social:
-    - title: envelope
-      url: mailto:inermis89@gmail.com
-
 - name: 정유희
   pic: no_profile.png
   position: 석사 졸업생
@@ -133,6 +141,14 @@ people:
   social:
     - title: envelope
       url: mailto:boyun868@gmail.com
+
+- name: 정지수
+  pic: no_profile.png
+  position: 석사 졸업생
+  major:
+  social:
+    - title: envelope
+      url: mailto:wltn1126@gmail.com
 
 - name: 김은수
   pic: no_profile.png
@@ -152,9 +168,9 @@ people:
 
 - name: 남형욱
   pic: no_profile.png
-  position: 학부생
+  position: 학부 졸업생
 
-- name: 신희영
+- name: 심희영
   pic: no_profile.png
   position: 학부 졸업생
   major:
@@ -198,7 +214,7 @@ people:
 # Postal address (add as many lines as necessary)
 address:
   - 08826, 서울특별시 관악구 관악로 1 서울대학교 자유전공학부
-  - 220동 322호, 220동 325호
+  - 220동 322호, 18동 120호
 
 # Build settings
 markdown: kramdown

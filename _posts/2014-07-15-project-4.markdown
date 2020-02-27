@@ -11,11 +11,13 @@ type: research
 넷째, 인간의 사회성에 대한 자연과학적 탐구(진화/심리/뇌과학)를 바탕으로 **사회성의 자연화(naturalization of sociality)**를 시도해왔다. 이 과정에서 가장 큰 성과 중 하나는 사람의 에고 네트워크(ego-network)의 밀도가 추론 특성(inference style)에 미치는 영향에 대한 사회심리학적 연구를 PLOS ONE에 출간한 일이라 할 수 있다. 다른 하나는 인간 사회성에 대한 학제적 연구를 통해 <울트라 소셜>이라는 단행본을 출간한 일일 것이다. 또한 우리는 사회적 동일성 이론(social identity theory)의 관점에서 인간-기계의 대결이라고 일컬어지는 이세돌-알파고 대국에서 우리가 실제로 경험했던 심리적 위협과 대응 방식에 관한 사회심리학적 실험을 수행했다. 또한 온라인 네트워크와 오프라인 네트워크의 중첩에 대한 진화·사회심리학적(evolutionary social psychology) 연구도 진행했다. 최근에는 행복과 사회성의 관계에 대한 한 가지 연구를 출간했다. 일련의 이런 연구들을 통해 우리는 집단생활을 하는 인간의 사회성에 대한 새롭고 더 깊은 이해에 도달하고자 한다.
 
 #### 연구 논문
-Cha, Y.J. Baek, S., Ahn, G., Lee, H., Lee, B., J., J.-E. Shin, & **Jang, D.***(under review), “Compensating Human Distinctiveness: Managing Distinctiveness Threat from Human-Machine Comparisons through Social Creativity”
-
 Bae, J., Cha, Y.J., Kang, D., and **Jang, D.***(under review), Relational Qualities and Contact Overlaps between Online and Offline Social Networks.
 
 Hur, J-W., **Jang, D.**, Lee, S-H., Kwak, S., and Kwon, J. S.(under review), Winning Enhances Self-esteem: Changes in Psychological Characteristics According to Socioeconomic Status after a General Election.
+
+Cha, Y., Baek, S., Ahn, G., Lee, H., Lee, B., Shin, J. E., & **Jang, D.** (2020). Compensating for the loss of human distinctiveness: The use of social creativity under Human–Machine comparisons. Computers in Human Behavior, 103, 80-90.
+
+Cha, Y. J., Baek, S., Lee, H. S., Bae, J., Lee, J., Lee, S. H., Bae, J., Lee, J., Kim, G., & **Jang, D.** (2019). Combating Identity Threat of Machine: The effect of group-affirmation on humans’ intellectual performance loss. 인지과학, 30(3), 157-174.
 
 신지은·**장대익***(2018), 「지각된 부는 어떻게 행복에 기여하는가? 경험 구매에 대한 선호 증가」, 『한국심리학회지: 사회 및 성격』 32권 2호, 47-66.
 
